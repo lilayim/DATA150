@@ -1,6 +1,6 @@
-# Data_150_Gelila
+# Introduction
 
-Lila's Folder for Submissions
+Hello, my name is Gelila, but I go by Lila. blah blah blah. I am very interested data science etc
 
 ## Informal Responses
 
