@@ -8,4 +8,4 @@ Text
 
 ## Formal Exercises
 
-Text
+1. [Annotated Bibliography]
