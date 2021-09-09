@@ -4,10 +4,8 @@ Hello, my name is Lila!
 
 ### Informal Responses
 
-1. Sept. 5th - Joshua Blumenstock (blumenstock.html
-2. Sept. 9th - Hans Rosling [rosling.md](...)
-
-[Annotated Bibliography](...)
+1. Sept. 5th - Joshua Blumenstock (blumenstock.md)
+2. Sept. 9th - Hans Rosling [rosling.md](rosling.md)
 
 ### Formal Exercises
 
