@@ -1,4 +1,6 @@
-# Introduction
+#DATA 150: Human Development/Data Science
+
+## Introduction
 
 Hello, my name is Lila! 
 
