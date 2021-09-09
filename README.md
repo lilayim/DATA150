@@ -1,4 +1,4 @@
-##DATA 150: Human Development/Data Science
+# DATA 150: Human Development/Data Science
 
 ## Introduction
 
