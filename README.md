@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, my name is Lila! (Add introduction)
+Hello, my name is Lila! 
 
 ### Informal Responses
 
