@@ -7,6 +7,8 @@ Hello, my name is Lila! (Add introduction)
 1. Sept. 5th - Joshua Blumenstock (blumenstock.html
 2. Sept. 9th - Hans Rosling [rosling]
 
+[Annotated Bibliography](...)
+
 ### Formal Exercises
 
 1. [Annotated Bibliography](...)
