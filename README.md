@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, my name is Gelila, but I go by Lila. blah blah blah. I am very interested data science etc
+Hello, my name is Lila! (Add introduction)
 
 ### Informal Responses
 
