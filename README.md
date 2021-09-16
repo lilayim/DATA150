@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Lila! 
+Hello, my name is Lila! (Add intro?)
 
 ### Informal Responses
 
