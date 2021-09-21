@@ -1,0 +1,1 @@
+Truncated lightning round questions: #1. What was the toaster project? What Thomas Thwaites attempt to do? Was he successful and what is the significant of this example in the context of complexity and development?
