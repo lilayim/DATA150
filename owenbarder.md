@@ -1,3 +1,4 @@
+[Video](https://youtu.be/02EZPxPcFqs)
 1. Truncated lightning round questions: #1. What was the toaster project? What Thomas Thwaites attempt to do? Was he successful and what is the significant of this example in the context of complexity and development?
  - He thought that he could make an electric toaster from scratch by taking apart a cheap toaster he bought and replicating each piece. Technically, he was successful for the five seconds he plugged it in until it exploded. His overall failure exemplifies that development is "not an increase in output by an individual firm, rather it is the emergence of a system of economic, financial, legal, social, political institurions, firms, products, and technologies" which together provides for the citizens to live good lives.
 
