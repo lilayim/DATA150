@@ -13,4 +13,4 @@ Hello! My name is Gelila Yimtatu, but I go by Lila. I live in Alexandria, Virgin
 
 ### Formal Exercises
 
-1. October 10th - Annotated Bibliography [Annotated Bibliography](annotatedbibliography.md)
+1. October 10th - Annotated Bibliography [annotatedbibliography.md](annotatedbibliography.md)
