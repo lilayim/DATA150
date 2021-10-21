@@ -11,6 +11,7 @@
 5. Sept. 23rd - Data Science, Computer Science, and Human Development in Relation to Our Future [essay.md](essay.md)
 8. Oct. 7th - Our World In Data [maxroser.md](maxroser.md)
 9. Oct. 12th - Hidden Debt and the Belt and Road Infastructure Plan [theBRI.md](theBRI.md)
+10. Oct 21st - Emperical Optimism in Increased Learning and Literacy [empericaloptimism.md](empericaloptimism.md)
 
 ### Formal Exercises
 
