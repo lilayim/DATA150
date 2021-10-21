@@ -2,9 +2,6 @@
 
 ## Introduction
 
-![05776214-7858-4E6F-85DC-B079D4ECB28A_1_105_c](https://user-images.githubusercontent.com/89988023/138297332-7ffd52fa-a519-4bd1-ae3b-2e6322e0c6b2.jpeg)
-
-
  Hello! My name is Gelila Yimtatu, but I go by Lila. I live in Alexandria, Virginia with my mom, dad, and my sister. We're Ethiopian and I'm very lucky to have grown up with the culture. In my free time, I love spending time with my puppy, Callie, and watching documentaries. Since middle school, I have thoroughly loved coding, and I have my mind set on majoring in computer science.   As I understand it, data science is the thorough study of massive amounts data and information. By identifizing these methods and algorithms that maximize benefits for humanity, we will be able to improve the quality of the lives of people, and enhance the overall understanding of ourselves.  
 ### Informal Responses
 
