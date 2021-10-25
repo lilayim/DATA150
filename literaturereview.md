@@ -24,6 +24,7 @@ Iwasaki, Yoji. Detection of Damage to Building Side-Walls Using High ... www.res
 Loon, R. V. (2021, June 6). The intersection of Data Science and Social Media. Simplilearn.com. Retrieved October 25, 2021, from https://www.simplilearn.com/intersection-of-data-science-and-social-media-article. 
 
 Makinoshima, F., Oishi, Y., Yamazaki, T., Furumura, T., &amp; Imamura, F. (2021, April 15). Early forecasting of tsunami inundation from Tsunami and geodetic observation data with convolutional neural networks. Nature News. Retrieved October 25, 2021, from https://www.nature.com/articles/s41467-021-22348-0. 
+
 Masahi, Kamogawa. “GPS, AIS, and More: Diversifying Tsunami Prediction Technology.” Nippon.com, 9 July 2020, www.nippon.com/en/japan-topics/g00876/.
 Mochizuki, M. (n.d.). S-net project: Performance of a large-scale seafloor observation network for preventing and reducing seismic and tsunami disasters. IEEE Xplore. Retrieved October 25, 2021, from https://ieeexplore.ieee.org/document/8558823. 
 
