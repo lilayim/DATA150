@@ -17,13 +17,18 @@ In order to grasp a better understanding of disaster management in Japan, I plac
 
 ## Bibliography
 Aoi, Shin, et al. “MOWLAS: Nied Observation Network for Earthquake, Tsunami and Volcano.” Earth, Planets and Space, Springer Berlin Heidelberg, 7 Sept. 2020, earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01250-x.
+
 ​​Disaster prevention. MOFA. (n.d.). Retrieved October 24, 2021, from https://www.mofa.go.jp/policy/disaster/21st/2.html. 
 Iwasaki, Yoji. Detection of Damage to Building Side-Walls Using High ... www.researchgate.net/publication/272883672_Detection_of_damage_to_building_side-walls_using_high-resolution_satellite_SAR_images.
+
 Loon, R. V. (2021, June 6). The intersection of Data Science and Social Media. Simplilearn.com. Retrieved October 25, 2021, from https://www.simplilearn.com/intersection-of-data-science-and-social-media-article. 
+
 Makinoshima, F., Oishi, Y., Yamazaki, T., Furumura, T., &amp; Imamura, F. (2021, April 15). Early forecasting of tsunami inundation from Tsunami and geodetic observation data with convolutional neural networks. Nature News. Retrieved October 25, 2021, from https://www.nature.com/articles/s41467-021-22348-0. 
 Masahi, Kamogawa. “GPS, AIS, and More: Diversifying Tsunami Prediction Technology.” Nippon.com, 9 July 2020, www.nippon.com/en/japan-topics/g00876/.
 Mochizuki, M. (n.d.). S-net project: Performance of a large-scale seafloor observation network for preventing and reducing seismic and tsunami disasters. IEEE Xplore. Retrieved October 25, 2021, from https://ieeexplore.ieee.org/document/8558823. 
+
 P. D. Clift, A. H. (2021, September 29). Evolution of the asian monsoon. Eos. Retrieved October 24, 2021, from https://eos.org/science-updates/evolution-of-the-asian-monsoon. 
+
 Peary, Brett. "Utilization of Social Media in the East Japan Earthquake and Tsunami and its Effectiveness." 12 July 2012. jsnds.org/jnds/34_1_1.pdf.
 Rauhala, E. (2011, March 11). How Japan became a leader in disaster preparation. Time. Retrieved October 24, 2021, from http://content.time.com/time/world/article/0,8599,2058390,00.html. 
 
