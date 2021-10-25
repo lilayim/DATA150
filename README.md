@@ -16,3 +16,4 @@
 ### Formal Exercises
 
 1. October 10th - Annotated Bibliography [annotatedbibliography.md](annotatedbibliography.md)
+2. October 21st - Literature Review [literaturereview.md](literaturereview.md)
