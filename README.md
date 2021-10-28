@@ -12,6 +12,7 @@
 8. Oct. 7th - Our World In Data [maxroser.md](maxroser.md)
 9. Oct. 12th - Hidden Debt and the Belt and Road Infastructure Plan [theBRI.md](theBRI.md)
 10. Oct 21st - Emperical Optimism in Increased Learning and Literacy [empericaloptimism.md](empericaloptimism.md)
+11. Oct 28th - The Intersection of Data Science and Computer Science [whatisdatascience.md](whatisdatascience.md)
 
 ### Formal Exercises
 
