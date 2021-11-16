@@ -18,6 +18,7 @@
 12. Nov 4th - Possible New Readings? [slotreplace.md](slotreplace.md)
 13. Nov 9th - Facial Recognition and Meta [metafacebook.md](metafacebook.md)
 14. Nov 11th - My Major and Covid-19 [upenncovid.md](upenncovid.md)
+15. Nov 16th - Implications of Self-Driving Cars [selfdrivingcars.md](selfdrivingcars.md)
 
 ### Formal Exercises
 
