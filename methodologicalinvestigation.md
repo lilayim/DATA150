@@ -8,11 +8,28 @@ The National Research and Development Agency’s National Research Institute for
 
 MOWLAS was created for possible natural disasters including earthquakes, tsunamis, and volcanoes which includes the seven main nationwide observation networks.
 
+<p align="center">
+   <img src="SatelliteImageChart.png" width="70%" height="70%"/>
+</p>
+<p align="center">
+   <img src="SatelliteImageChart.png" width="70%" height="70%"/>
+</p>
+
 The first image displays the four land earthquake observation networks (Hi-net, K-NET, KiK-net, and F-net), two seafloor earthquake and tsunami observation networks (S-net and DONET), and a volcano observation network (V-net). With S-net covering a vast offshore portion of the ocean, it is expected to contribute the most to detecting these catastrophic incidents (Shin). Going more in depth, the second photo shows examples of forecast accuracies for coastal tsunami heights associated with earthquakes of magnitude Mw 7.7, 8.4, and 9.1, at 12 locations of interest. The data was proved to be exponentially better, accuracy increased with the s-net as more and more data was generated. 
 
 The intersection between data science and social media is unexpectedly strong; during the Great East Japan Earthquake and Tsunami, social media served as a lifeline for individuals affected. The catastrophe stopped the land-line and mobile phones from working and text messages would not dispatch quickly enough due to congestion. The social environment became uncertain for those experiencing the earthquake in the present, so people turned to media outlets and depend on instantaneous information. Media outlets were also crucial for communication with friends and family about safety. Nearly all mobile phones are Internet capable, so even though the land-line was clogged people with mobile phones still could contact others virtually. Mixi is a very popular service originating in Japan that helped at the time of the disaster. They added large image links to Google Person Finder and provided the home page with links to communities related to the disaster sectioned in categories like “general”, “affected person’s support information”, “regional”, and more. Twitter also helped by publishing explanations of how to use Twitter during the disaster and hashtags. 
 
 People that utilized social media were identified into different groups due to their receiver-sender relationships: basic senders are those sending on an individual basis, volunteer senders are those sending through cooperation with others, manager senders are sending while leading a group volunteer, and non-senders are basically receivers who chose not to send.
+
+<p align="center">
+   <img src="SatelliteImageChart.png" width="70%" height="70%"/>
+</p>
+<p align="center">
+   <img src="SatelliteImageChart.png" width="70%" height="70%"/>
+</p>
+<p align="center">
+   <img src="SatelliteImageChart.png" width="70%" height="70%"/>
+</p>
 
 In order to analyze the importance of social media, certain individuals present were asked to take some multiple choice surveys. The first one checks what types of tools related to social media were utilized during the disaster. The second one examines the reasons for utilizing social media to recieve information. The last one identifies the problems when using social media during this disaster. With this kind of graphical information, we have been able to root out what individuals were most handy and what form of social media communication has been most advantageous (Brett).
 
