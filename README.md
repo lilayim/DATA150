@@ -25,3 +25,4 @@
 1. October 10th - Annotated Bibliography [annotatedbibliography.md](annotatedbibliography.md)
 2. October 21st - Literature Review [literaturereview.md](literaturereview.md)
 3. November 21st - Methodological Investigation [methodologicalinvestigation.md](methodologicalinvestigation.md)
+4. Dec 9th - https://docs.google.com/presentation/d/176a0yuCQ-wch-jeCWjHsFy7q3GufKa0o6uN2Jli1qrA/edit#slide=id.g10697e20c29_0_71
