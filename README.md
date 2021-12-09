@@ -2,7 +2,7 @@
 
 ## Introduction
 (9/28 Essay)
- Hello! My name is Gelila Yimtatu, but I go by Lila. I live in Alexandria, Virginia with my mom, dad, and my sister. We're Ethiopian and I'm very lucky to have grown up with the culture. In my free time, I love spending time with my puppy, Callie, and watching documentaries. Since middle school, I have thoroughly loved coding, and I have my mind set on majoring in computer science.   As I understand it, data science is the thorough study of massive amounts data and information. By identifizing these methods and algorithms that maximize benefits for humanity, we will be able to improve the quality of the lives of people, and enhance the overall understanding of ourselves.  
+ Hello! My name is Gelila Yimtatu, but I go by Lila. I live in Alexandria, Virginia with my mom, dad, and my sister. We're Ethiopian and I'm very lucky to have grown up with the culture. In my free time, I love spending time with my puppy, Callie, and watching documentaries. Since middle school, I have thoroughly loved coding, and I have my mind set on majoring in computer science.   As I understand it, data science is the thorough study of massive amounts data and information. By identifying these methods and algorithms that maximize benefits for humanity, we will be able to improve the quality of the lives of people, and enhance the overall understanding of ourselves.  
 ### Informal Responses
 
 1. Sept. 5th - Joshua Blumenstock [blumenstock.md](blumenstock.md)
