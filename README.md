@@ -26,3 +26,4 @@
 2. October 21st - Literature Review [literaturereview.md](literaturereview.md)
 3. November 21st - Methodological Investigation [methodologicalinvestigation.md](methodologicalinvestigation.md)
 4. Dec 9th - https://docs.google.com/presentation/d/176a0yuCQ-wch-jeCWjHsFy7q3GufKa0o6uN2Jli1qrA/edit?usp=sharing
+5. Dec 14th - Research Proposal [researchproposal.md](researchproposal.md)
